@@ -1,6 +1,6 @@
 ---
-name: Bug Report / Customer Facing
-about: Template to report/document a new bug that is directly affecting or has been
+name: New Customer Facing Issue
+about: Template to report/document a new issue that is directly affecting or has been
   reported by a customer.
 title: "[SP: —] Brief Issue Description (Affected company - User, ... )"
 labels: Customer Facing, Hubspot
