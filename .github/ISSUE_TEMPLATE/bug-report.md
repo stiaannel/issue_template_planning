@@ -33,6 +33,11 @@ assignees: stiaannel
 ### Screenshots and links (videos/sheets/docs/etc…)
 > Attach any extra links, videos screenshots here:
 
-# Development/Design
-## Design/Prototype URLs
-> List the url(s) for designs and prototypes here.
+
+### Prototype and Design URL(s)
+
+#### Design
+> Figma/XD etc Link Goes Here
+
+#### Prototype
+> Prototype Links Go Here
