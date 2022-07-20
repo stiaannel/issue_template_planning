@@ -8,24 +8,24 @@ assignees: stiaannel
 
 ---
 
-# Issue Description
+## Issue Description
 > The field below is used for a hubspot integration. Please fill out with the correct customer email prior to submission.
 
 email: 
 
-## Steps To Reproduce
+### Steps To Reproduce
 > Describe the requirements to help the developers and testers replicate the issue.
 > 1. Go to xxx
 > 2. Click on xxxx
 > 3. …
 
-## Expected Behaviour
+### Expected Behaviour
 > Give a summary of the expected behaviour. E.g. When I do this It is expected that this happens
 
-## Actual Behaviour
+### Actual Behaviour
 > Give a summary of the behaviour as is currently. E.g. Currently when I do this , … this happens
 
-## Environment
+### Environment
 | Environment | Available information |
 | --- | --- |
 | Browser: |  |
@@ -34,16 +34,20 @@ email:
 | Email Client: |  |
 | Screen Size: |  |
 
-## User Information
-### Reported By
+### User Information
+#### Reported By
 <!-- | Ghost User | ghost@ignite.net | Ignite(Test) | 781 | -->
 | User | Email | Company Name | Company ID |
 | --- | --- | --- | --- |
 |  |  |  |  |
 
-### Screenshots and links (videos/sheets/docs/etc…)
+#### Screenshots and links (videos/sheets/docs/etc…)
 > Attach any extra links, videos screenshots here:
 
-# Development/Design
-## Design/Prototype URLs
-> List the url(s) for designs and prototypes here.
+### Prototype and Design URL(s)
+
+#### Design
+> Figma/XD etc Link Goes Here
+
+#### Prototype
+> Prototype Links Go Here

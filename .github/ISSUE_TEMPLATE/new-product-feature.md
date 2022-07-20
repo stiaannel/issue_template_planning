@@ -19,8 +19,7 @@ assignees: stiaannel
 ### Prototype and Design URL(s)
 
 #### Design
-URL:
+> Figma/XD etc Link Goes Here
 
 #### Prototype
-PR: 
-URL:
+> Prototype Links Go Here
